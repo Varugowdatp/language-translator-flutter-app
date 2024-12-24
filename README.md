@@ -2,15 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter app translates different langauge like Kannada ,English and Hindi and below are the ScreenShots.
+![Screenshot 2024-12-24 111452](https://github.com/user-attachments/assets/f05ae6ec-456d-44f9-bb70-0fb172faf0b0)
+![Screenshot 2024-12-24 111549](https://github.com/user-attachments/assets/3985a739-5977-40c3-bdd2-74f5e46e84fb)
+![Screenshot 2024-12-24 111431](https://github.com/user-attachments/assets/ec883d55-d0c0-4d1d-9e14-767d86ff2e81)
